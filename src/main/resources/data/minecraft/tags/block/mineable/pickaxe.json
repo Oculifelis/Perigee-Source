@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "perigee:tide_basin",
+    "perigee:tidal_stand",
+    "perigee:tide_dial"
+  ]
+}

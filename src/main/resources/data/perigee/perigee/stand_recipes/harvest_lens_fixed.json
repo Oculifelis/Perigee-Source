@@ -1,0 +1,7 @@
+{
+  "input": "perigee:harvest_lens",
+  "liquid": "perigee:harvest_brine",
+  "count": 8,
+  "fixed": true,
+  "returns": "perigee:moon_glass_bottle"
+}

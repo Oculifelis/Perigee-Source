@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "power=0": {
+      "model": "perigee:block/tide_dial_off"
+    },
+    "power=1": {
+      "model": "perigee:block/tide_dial_low"
+    },
+    "power=2": {
+      "model": "perigee:block/tide_dial_low"
+    },
+    "power=3": {
+      "model": "perigee:block/tide_dial_low"
+    },
+    "power=4": {
+      "model": "perigee:block/tide_dial_low"
+    },
+    "power=5": {
+      "model": "perigee:block/tide_dial_low"
+    },
+    "power=6": {
+      "model": "perigee:block/tide_dial_low"
+    },
+    "power=7": {
+      "model": "perigee:block/tide_dial_low"
+    },
+    "power=8": {
+      "model": "perigee:block/tide_dial_mid"
+    },
+    "power=9": {
+      "model": "perigee:block/tide_dial_mid"
+    },
+    "power=10": {
+      "model": "perigee:block/tide_dial_mid"
+    },
+    "power=11": {
+      "model": "perigee:block/tide_dial_mid"
+    },
+    "power=12": {
+      "model": "perigee:block/tide_dial_mid"
+    },
+    "power=13": {
+      "model": "perigee:block/tide_dial_high"
+    },
+    "power=14": {
+      "model": "perigee:block/tide_dial_high"
+    },
+    "power=15": {
+      "model": "perigee:block/tide_dial_high"
+    }
+  }
+}

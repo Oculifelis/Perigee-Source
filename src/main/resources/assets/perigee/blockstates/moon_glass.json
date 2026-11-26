@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": {
+      "type": "perigee:connected",
+      "tintindex": 0,
+      "textures": {
+        "isolated": "perigee:block/moon_glass",
+        "all": "perigee:block/moon_glass_ctm_all",
+        "h": "perigee:block/moon_glass_ctm_h",
+        "v": "perigee:block/moon_glass_ctm_v",
+        "inner": "perigee:block/moon_glass_ctm_inner",
+        "particle": "perigee:block/moon_glass"
+      }
+    }
+  }
+}

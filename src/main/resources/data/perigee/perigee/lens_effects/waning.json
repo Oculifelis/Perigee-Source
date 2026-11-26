@@ -1,0 +1,11 @@
+{
+  "lens": "perigee:waning_lens",
+  "tide": "waning",
+  "powers": [
+    {
+      "type": "ebb",
+      "share": 0.3,
+      "rate": 1.0
+    }
+  ]
+}

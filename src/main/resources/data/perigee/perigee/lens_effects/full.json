@@ -1,0 +1,9 @@
+{
+  "lens": "perigee:full_lens",
+  "tide": "full",
+  "powers": [
+    {
+      "type": "water_walk"
+    }
+  ]
+}

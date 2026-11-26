@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "GAG",
+    " G "
+  ],
+  "key": {
+    "G": "perigee:moon_glass_pane",
+    "A": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "perigee:lens_blank",
+    "count": 2
+  }
+}

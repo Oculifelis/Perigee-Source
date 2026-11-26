@@ -1,0 +1,26 @@
+{
+  "condense_ticks": 5000,
+  "bottles": 3,
+  "dry_ticks": 6000,
+  "salts": 2,
+  "falloff": [
+    1.0,
+    0.66,
+    0.33,
+    0.0,
+    0.0
+  ],
+  "phase_pull": [
+    15,
+    11,
+    7,
+    11,
+    15,
+    11,
+    7,
+    11
+  ],
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "lens": "perigee:nox_crescentis_lens",
+  "always": true,
+  "powers": [
+    {
+      "type": "attribute",
+      "attribute": "minecraft:attack_speed",
+      "amount": 0.1,
+      "operation": "add_multiplied_base"
+    }
+  ]
+}

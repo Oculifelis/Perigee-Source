@@ -1,0 +1,11 @@
+{
+  "lens": "perigee:nox_plenae_lens",
+  "always": true,
+  "powers": [
+    {
+      "type": "effect",
+      "effect": "minecraft:regeneration",
+      "amplifier": 0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_daylight_detector",
+  "textures": {
+    "top": "perigee:block/tide_dial_top_low",
+    "side": "perigee:block/tide_dial_side"
+  }
+}

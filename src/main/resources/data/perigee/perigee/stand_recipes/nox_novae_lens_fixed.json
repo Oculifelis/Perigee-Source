@@ -1,0 +1,7 @@
+{
+  "input": "perigee:nox_novae_lens",
+  "liquid": "perigee:nox_novae_brine",
+  "count": 8,
+  "fixed": true,
+  "returns": "perigee:moon_glass_bottle"
+}

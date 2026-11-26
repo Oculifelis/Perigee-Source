@@ -1,0 +1,10 @@
+{
+  "lens": "perigee:cruenta_lens",
+  "always": true,
+  "powers": [
+    {
+      "type": "lifesteal",
+      "fraction": 0.15
+    }
+  ]
+}

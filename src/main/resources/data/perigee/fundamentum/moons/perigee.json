@@ -1,0 +1,19 @@
+{
+  "chance": 0.08,
+  "priority": -5,
+  "full_moon": "only",
+  "fog": {
+    "color": "#BFD8FF",
+    "strength": 0.15
+  },
+  "sky": {
+    "color": "#DDEBFF",
+    "strength": 0.2
+  },
+  "rise_message": {
+    "key": "message.perigee.perigee_rise",
+    "color": "fog",
+    "italic": true
+  },
+  "set_message": "message.perigee.perigee_set"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "GGG",
+    "GXG",
+    "GGG"
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "X": "#perigee:phase_salts"
+  },
+  "result": {
+    "id": "perigee:moon_glass",
+    "count": 8
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "lens": "perigee:enchanted_lens",
+  "always": true,
+  "powers": [
+    {
+      "type": "xp_bonus",
+      "bonus": 0.5
+    }
+  ]
+}

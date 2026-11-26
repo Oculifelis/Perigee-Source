@@ -1,0 +1,12 @@
+{
+  "name": "waxing",
+  "phases": [
+    5,
+    6,
+    7
+  ],
+  "brine": "perigee:waxing_brine",
+  "salt": "perigee:waxing_salt",
+  "lens": "perigee:waxing_lens",
+  "colour": "#B8D8C8"
+}

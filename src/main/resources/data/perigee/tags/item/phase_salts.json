@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "perigee:full_salt",
+    "perigee:waning_salt",
+    "perigee:new_salt",
+    "perigee:waxing_salt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "lens": "perigee:nox_decrescentis_lens",
+  "always": true,
+  "powers": [
+    {
+      "type": "kill_xp",
+      "bonus": 0.5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "lens": "perigee:glimmer_lens",
+  "always": true,
+  "powers": [
+    {
+      "type": "xp_pull",
+      "radius_full": 32.0,
+      "radius_new": 8.0,
+      "speed": 0.6
+    }
+  ]
+}

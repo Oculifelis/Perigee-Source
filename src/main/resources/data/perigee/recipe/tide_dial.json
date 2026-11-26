@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "minecraft:daylight_detector",
+    "#perigee:phase_salts"
+  ],
+  "result": {
+    "id": "perigee:tide_dial",
+    "count": 1
+  }
+}

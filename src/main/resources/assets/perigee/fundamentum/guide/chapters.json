@@ -1,0 +1,12 @@
+{
+  "title": "Perigee",
+  "icon": "perigee:phase_medallion",
+  "chapters": [
+    {
+      "id": "perigee:overview",
+      "title": "Perigee",
+      "icon": "perigee:tide_basin",
+      "order": 1
+    }
+  ]
+}

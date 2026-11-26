@@ -1,0 +1,10 @@
+{
+  "name": "new",
+  "phases": [
+    4
+  ],
+  "brine": "perigee:new_brine",
+  "salt": "perigee:new_salt",
+  "lens": "perigee:new_lens",
+  "colour": "#3A3F6B"
+}

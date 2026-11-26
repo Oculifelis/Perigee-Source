@@ -1,0 +1,849 @@
+{
+  "replace": false,
+  "values": {
+    "perigee:full_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:full_salt": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:terra",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:ordo",
+          "amount": 1
+        }
+      ]
+    },
+    "perigee:full_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:waning_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:waning_salt": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:terra",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:ordo",
+          "amount": 1
+        }
+      ]
+    },
+    "perigee:waning_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:new_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:new_salt": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:terra",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:ordo",
+          "amount": 1
+        }
+      ]
+    },
+    "perigee:new_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:waxing_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:waxing_salt": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:terra",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:ordo",
+          "amount": 1
+        }
+      ]
+    },
+    "perigee:waxing_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:perigee_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:perigee_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:psychedelic_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:psychedelic_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:enchanted_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:enchanted_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:glimmer_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:glimmer_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:harvest_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:harvest_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:cruenta_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:cruenta_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:nox_plenae_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:nox_plenae_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:nox_crescentis_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:nox_crescentis_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:nox_novae_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:nox_novae_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:nox_decrescentis_brine": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:nox_decrescentis_lens": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 6
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 4
+        }
+      ]
+    },
+    "perigee:lens_blank": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 1
+        }
+      ]
+    },
+    "perigee:phase_medallion": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:desiderium",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:praecantatio",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:tide_basin": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:terra",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:tidal_stand": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:terra",
+          "amount": 3
+        },
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:fabrico",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:tide_dial": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:potentia",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:machina",
+          "amount": 2
+        }
+      ]
+    },
+    "perigee:moon_glass": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:alienis",
+          "amount": 1
+        }
+      ]
+    },
+    "perigee:moon_glass_pane": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 1
+        }
+      ]
+    },
+    "perigee:moon_glass_bottle": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 1
+        },
+        {
+          "aspect": "thaumaturge:vacuos",
+          "amount": 1
+        }
+      ]
+    }
+  }
+}

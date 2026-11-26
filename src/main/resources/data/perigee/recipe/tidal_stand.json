@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    " Q ",
+    "SSS"
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "Q": "minecraft:quartz",
+    "S": "minecraft:smooth_stone_slab"
+  },
+  "result": {
+    "id": "perigee:tidal_stand",
+    "count": 1
+  }
+}

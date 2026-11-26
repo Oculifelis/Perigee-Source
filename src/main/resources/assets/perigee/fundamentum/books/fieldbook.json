@@ -1,0 +1,102 @@
+{
+  "id": "perigee:fieldbook",
+  "title": "Tide Fieldbook",
+  "subtitle": "Perigee",
+  "style": "fundamentum:lab_notebook",
+  "icon": "perigee:phase_medallion",
+  "intro": "A record of tide basins, brines, lenses and the moons that pull on them.",
+  "categories": [
+    {
+      "id": "basics",
+      "title": "Tides",
+      "icon": "perigee:tide_basin"
+    },
+    {
+      "id": "moons",
+      "title": "Moons",
+      "icon": "perigee:perigee_lens"
+    }
+  ],
+  "entries": [
+    {
+      "id": "perigee:basin",
+      "category": "basics",
+      "title": "Tide Basin",
+      "subtitle": "Brine and Salt",
+      "icon": "perigee:tide_basin",
+      "order": 1,
+      "facts": [
+        "A water bucket fills an empty Tide Basin. It needs open sky above it.",
+        "Over half a night the water condenses into brine of the tide that night. Each fill gives 3 bottles.",
+        "Brine left in the basin through the next day dries into Phase Salt."
+      ],
+      "flavour": "Still water, held up to the moon."
+    },
+    {
+      "id": "perigee:lenses",
+      "category": "basics",
+      "title": "Lenses",
+      "subtitle": "Tidal Stand",
+      "icon": "perigee:full_lens",
+      "order": 2,
+      "facts": [
+        "A Blank Lens on a Tidal Stand turns into that tide's lens after 4 bottles of one brine.",
+        "8 more bottles of the same brine fix a lens so it works at full strength every night."
+      ],
+      "flavour": "Glass remembers the night it was poured."
+    },
+    {
+      "id": "perigee:medallion",
+      "category": "basics",
+      "title": "Phase Medallion",
+      "subtitle": "Necklace",
+      "icon": "perigee:phase_medallion",
+      "order": 3,
+      "facts": [
+        "Worn in the necklace slot. Hold a lens in the other hand and use the medallion to set it.",
+        "A Full lens walks on water, a Waxing lens draws items and XP in, a New lens hides in shadow and a Waning lens spreads damage over a few seconds.",
+        "A lens is strongest on its own tide's nights and fades as the moon moves on."
+      ],
+      "flavour": "One tide, worn close."
+    },
+    {
+      "id": "perigee:dial",
+      "category": "basics",
+      "title": "Tide Dial",
+      "subtitle": "Redstone",
+      "icon": "perigee:tide_dial",
+      "order": 4,
+      "facts": [
+        "No signal by day. At night the signal follows the pull of the moon phase.",
+        "Full power on a special moon."
+      ],
+      "flavour": "The pull, read off a dial."
+    },
+    {
+      "id": "perigee:perigee",
+      "category": "moons",
+      "title": "The Perigee Moon",
+      "subtitle": "Rare full moon",
+      "icon": "perigee:perigee_lens",
+      "order": 1,
+      "facts": [
+        "Rises only on some full moons. Basins condense twice as fast.",
+        "Basins make Perigee Brine. Its lens holds all four tide powers at half strength, every night."
+      ],
+      "flavour": "The moon at its closest."
+    },
+    {
+      "id": "perigee:other_moons",
+      "category": "moons",
+      "title": "Other Moons",
+      "subtitle": "Fundamentum, Ostentum, Ars Moriendi",
+      "icon": "perigee:psychedelic_lens",
+      "order": 2,
+      "facts": [
+        "Each special moon gives its own brine, and that brine makes its own lens.",
+        "Moon lenses work at full strength every night."
+      ],
+      "flavour": "Every strange moon leaves its own salt."
+    }
+  ]
+}

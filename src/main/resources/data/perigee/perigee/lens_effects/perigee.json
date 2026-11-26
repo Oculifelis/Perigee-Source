@@ -1,0 +1,28 @@
+{
+  "lens": "perigee:perigee_lens",
+  "always": true,
+  "powers": [
+    {
+      "type": "water_walk",
+      "scale": 0.5
+    },
+    {
+      "type": "pull",
+      "radius": 8.0,
+      "speed": 0.25,
+      "scale": 0.5
+    },
+    {
+      "type": "shadow_hide",
+      "light_max": 7,
+      "hide": 0.6,
+      "scale": 0.5
+    },
+    {
+      "type": "ebb",
+      "share": 0.3,
+      "rate": 1.0,
+      "scale": 0.5
+    }
+  ]
+}

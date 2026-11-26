@@ -1,0 +1,11 @@
+{
+  "lens": "perigee:waxing_lens",
+  "tide": "waxing",
+  "powers": [
+    {
+      "type": "pull",
+      "radius": 8.0,
+      "speed": 0.25
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "SSS",
+    "S S",
+    " G "
+  ],
+  "key": {
+    "S": "minecraft:string",
+    "G": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "perigee:phase_medallion",
+    "count": 1
+  }
+}

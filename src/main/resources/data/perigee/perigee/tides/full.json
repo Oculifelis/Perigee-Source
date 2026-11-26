@@ -1,0 +1,10 @@
+{
+  "name": "full",
+  "phases": [
+    0
+  ],
+  "brine": "perigee:full_brine",
+  "salt": "perigee:full_salt",
+  "lens": "perigee:full_lens",
+  "colour": "#E8F0FF"
+}

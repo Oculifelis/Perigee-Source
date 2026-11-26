@@ -1,0 +1,12 @@
+{
+  "name": "waning",
+  "phases": [
+    1,
+    2,
+    3
+  ],
+  "brine": "perigee:waning_brine",
+  "salt": "perigee:waning_salt",
+  "lens": "perigee:waning_lens",
+  "colour": "#8FB4E8"
+}

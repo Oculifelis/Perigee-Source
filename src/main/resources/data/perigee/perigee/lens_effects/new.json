@@ -1,0 +1,11 @@
+{
+  "lens": "perigee:new_lens",
+  "tide": "new",
+  "powers": [
+    {
+      "type": "shadow_hide",
+      "light_max": 7,
+      "hide": 0.6
+    }
+  ]
+}

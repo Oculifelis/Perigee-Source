@@ -1,0 +1,7 @@
+{
+  "input": "perigee:lens_blank",
+  "liquid": "perigee:perigee_brine",
+  "count": 4,
+  "output": "perigee:perigee_lens",
+  "returns": "perigee:moon_glass_bottle"
+}

@@ -1,0 +1,9 @@
+{
+  "lens": "perigee:psychedelic_lens",
+  "always": true,
+  "powers": [
+    {
+      "type": "tide_copy"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+license="LGPL-3.0-or-later"
+
+[[mods]]
+modId="perigee"
+version="${mod_version}"
+displayName="Perigee"
+logoFile="perigee_logo.png"
+authors="Oculifelis"
+description='''
+Tide Basins condense brine of the current moon phase under the night sky. Brine poured over glass on a Tidal Stand makes lenses for a Phase Medallion, each with the power of its tide. A rare Perigee moon and the special moons of other mods give brines of their own.
+'''
+
+[[dependencies.perigee]]
+    modId="neoforge"
+    type="required"
+    versionRange="[26.1.2.122,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.perigee]]
+    modId="minecraft"
+    type="required"
+    versionRange="[26.1.2]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.perigee]]
+    modId="fundamentum"
+    type="required"
+    versionRange="[2.0.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.perigee]]
+    modId="curios"
+    type="required"
+    versionRange="[15.0.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.perigee]]
+    modId="jei"
+    type="optional"
+    versionRange="[29.0,)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.perigee]]
+    modId="jade"
+    type="optional"
+    versionRange="[26.1,)"
+    ordering="NONE"
+    side="BOTH"

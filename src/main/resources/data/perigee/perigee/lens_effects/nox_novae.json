@@ -1,0 +1,12 @@
+{
+  "lens": "perigee:nox_novae_lens",
+  "always": true,
+  "powers": [
+    {
+      "type": "attribute",
+      "attribute": "minecraft:luck",
+      "amount": 1.0,
+      "operation": "add_value"
+    }
+  ]
+}

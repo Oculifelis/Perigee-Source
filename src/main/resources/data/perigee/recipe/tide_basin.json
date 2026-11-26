@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "P P",
+    "PCP",
+    "SSS"
+  ],
+  "key": {
+    "P": "minecraft:prismarine_shard",
+    "C": "minecraft:cauldron",
+    "S": "minecraft:smooth_stone_slab"
+  },
+  "result": {
+    "id": "perigee:tide_basin",
+    "count": 1
+  }
+}
